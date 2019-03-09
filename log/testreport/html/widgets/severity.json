@@ -1,0 +1,31 @@
+[ {
+  "uid" : "536967fcf585db5b",
+  "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-01688]",
+  "time" : {
+    "start" : 1550916543603,
+    "stop" : 1550916579808,
+    "duration" : 36205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4841f04a253dd098",
+  "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_search",
+  "time" : {
+    "start" : 1550916435114,
+    "stop" : 1550916501635,
+    "duration" : 66521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "193db1ae63d2e2b4",
+  "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-BABA]",
+  "time" : {
+    "start" : 1550916503243,
+    "stop" : 1550916542036,
+    "duration" : 38793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

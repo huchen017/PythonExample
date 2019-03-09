@@ -1,0 +1,148 @@
+{
+  "uid" : "4841f04a253dd098",
+  "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_search",
+  "fullName" : "pytesttraining.D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_search",
+  "historyId" : "e9337791bb4d3750b18161d51cb7377d",
+  "time" : {
+    "start" : 1550916435114,
+    "stop" : 1550916501635,
+    "duration" : 66521
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "打开雪球APP",
+      "time" : {
+        "start" : 1550916442828,
+        "stop" : 1550916442828,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "开启雪球权限",
+      "time" : {
+        "start" : 1550916442828,
+        "stop" : 1550916443647,
+        "duration" : 819
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "同意雪球获取手机相关权限",
+      "time" : {
+        "start" : 1550916443647,
+        "stop" : 1550916450165,
+        "duration" : 6518
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击搜索框",
+      "time" : {
+        "start" : 1550916450165,
+        "stop" : 1550916451815,
+        "duration" : 1650
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入搜索内容",
+      "time" : {
+        "start" : 1550916451816,
+        "stop" : 1550916501635,
+        "duration" : 49819
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "P-V-10"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "搜索拼多多的股票并查看详情"
+  }, {
+    "name" : "thread",
+    "value" : "7824-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "testClass",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_search"
+  }, {
+    "name" : "package",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4841f04a253dd098.json",
+  "parameterValues" : [ ]
+}

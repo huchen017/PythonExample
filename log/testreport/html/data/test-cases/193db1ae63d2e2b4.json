@@ -1,0 +1,178 @@
+{
+  "uid" : "193db1ae63d2e2b4",
+  "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-BABA]",
+  "fullName" : "pytesttraining.D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-BABA]",
+  "historyId" : "a1795352fda2d379a915fdd7458959c6",
+  "time" : {
+    "start" : 1550916503243,
+    "stop" : 1550916542036,
+    "duration" : 38793
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "打开雪球APP",
+      "time" : {
+        "start" : 1550916510524,
+        "stop" : 1550916510524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "开启雪球权限",
+      "time" : {
+        "start" : 1550916510524,
+        "stop" : 1550916511348,
+        "duration" : 824
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "同意雪球获取手机相关权限",
+      "time" : {
+        "start" : 1550916511348,
+        "stop" : 1550916517735,
+        "duration" : 6387
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击搜索框",
+      "time" : {
+        "start" : 1550916517735,
+        "stop" : 1550916519287,
+        "duration" : 1552
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "输入搜索内容",
+      "time" : {
+        "start" : 1550916519287,
+        "stop" : 1550916525423,
+        "duration" : 6136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "点击股票的添加自选按钮",
+      "time" : {
+        "start" : 1550916525423,
+        "stop" : 1550916535554,
+        "duration" : 10131
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "验证股票是否已添加到自选tab",
+      "time" : {
+        "start" : 1550916535554,
+        "stop" : 1550916542035,
+        "duration" : 6481
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "P-V-10"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "搜索股票并添加自选"
+  }, {
+    "name" : "thread",
+    "value" : "7824-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "testClass",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-BABA]"
+  }, {
+    "name" : "package",
+    "value" : "pytesttraining"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "193db1ae63d2e2b4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,49 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "搜索拼多多的股票并查看详情",
+    "children" : [ {
+      "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_search",
+      "uid" : "4841f04a253dd098",
+      "parentUid" : "811feaf8602d1f7068e7a4244201fc87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550916435114,
+        "stop" : 1550916501635,
+        "duration" : 66521
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "811feaf8602d1f7068e7a4244201fc87"
+  }, {
+    "name" : "搜索股票并添加自选",
+    "children" : [ {
+      "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-BABA]",
+      "uid" : "193db1ae63d2e2b4",
+      "parentUid" : "58cb30498edef8ca4209894b905a9d4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550916503243,
+        "stop" : 1550916542036,
+        "duration" : 38793
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\PythonExample\\pytesttraining\\testcase.test_xueqiu.test_add_attention[\\u963f\\u91cc\\u5df4\\u5df4-01688]",
+      "uid" : "536967fcf585db5b",
+      "parentUid" : "58cb30498edef8ca4209894b905a9d4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1550916543603,
+        "stop" : 1550916579808,
+        "duration" : 36205
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "58cb30498edef8ca4209894b905a9d4c"
+  } ]
+}

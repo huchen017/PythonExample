@@ -71,7 +71,7 @@ class TestXueqiu1:
             print(element.location)
         self.driver.find_element_by_xpath("//*[@text='自选' and contains(@resource-id,'tab_name')]").click()
 
-        element = self.driver.find_element_by_xpath("//*[@text='阿里巴巴']")
-        TouchAction(self.driver).long_press(element).perform()
-        self.driver.find_element_by_xpath("//*[@text='删除']").click()
+        # element = self.driver.find_element_by_xpath("//*[@text='阿里巴巴']")
+        # TouchAction(self.driver).long_press(element).perform()
+        # self.driver.find_element_by_xpath("//*[@text='删除']").click()
 
